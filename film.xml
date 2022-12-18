@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <film>
+        <name>Один дома</name>
+        <year>1990</year>
+        <city>США</city>
+        <producer>Крис Коламбус</producer>
+    </film>
+    <film>
+        <name>Иван Васильевич меняет профессию</name>
+        <year>1973</year>
+        <city>СССР</city>
+        <producer>Леонид Гайдай</producer>
+    </film>
+    <film>
+        <name>Джентльмены удачи</name>
+        <year>1971</year>
+        <city>СССР</city>
+        <producer>Александр Серый</producer>
+    </film>
+    <film>
+        <name>Маска</name>
+        <year>1994</year>
+        <city>США</city>
+        <producer>Чак Рассел</producer>
+    </film>
+    <film>
+        <name>Мальчишник в Вегасе</name>
+        <year>2009</year>
+        <city>США</city>
+        <producer>Тодд Филлипс</producer>
+    </film>
+</catalog>
